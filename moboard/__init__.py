@@ -1,6 +1,6 @@
 import importlib.metadata
 
-__version__ = importlib.metadata.version("mofresh") 
+__version__ = importlib.metadata.version("moboard") 
 
 import anywidget
 import traitlets

@@ -4,7 +4,7 @@
 #     "altair==5.5.0",
 #     "marimo",
 #     "matplotlib==3.10.1",
-#     "mofresh==0.1.0",
+#     "moboard==0.1.0",
 #     "mohtml==0.1.7",
 #     "numpy==2.2.5",
 #     "polars==1.29.0",
